@@ -15,7 +15,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║    Intern @ The Baap Company  ·  Nashik, India  🇮🇳           ║
+║    Intern @ The Baap Company  ·  sangamner, India  🇮🇳           ║
 ║    Building quietly. Learning deeply. Shipping slowly.        ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
@@ -49,7 +49,6 @@ class Pruthviraj:
     name       = "Pruthviraj More"
     role       = "AI / ML Intern"
     company    = "The Baap Company"
-    location   = "Nashik, India 🇮🇳"
     focus      = ["Machine Learning", "Deep Learning",
                   "Data Science"]
 
